@@ -1,1 +1,1 @@
-# python_ex
+Lets do all python examples from Learning Python hard way
